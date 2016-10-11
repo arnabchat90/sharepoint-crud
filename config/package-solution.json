@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sharepoint-crud-client-side-solution",
+    "id": "c5e06711-1327-4e09-926a-70bd7b9058b1",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sharepoint-crud.spapp"
+  }
+}

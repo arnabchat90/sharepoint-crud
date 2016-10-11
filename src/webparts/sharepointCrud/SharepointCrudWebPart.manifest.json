@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "594d1515-bee6-47cc-98a0-49e23048d359",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "594d1515-bee6-47cc-98a0-49e23048d359",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SharepointCrud" },
+    "description": { "default": "Doing SharePoint Crud operations" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "SharepointCrud"
+    }
+  }]
+}

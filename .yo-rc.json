@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "sharepoint-crud",
+    "libraryId": "c5e06711-1327-4e09-926a-70bd7b9058b1",
+    "framework": "react"
+  }
+}
